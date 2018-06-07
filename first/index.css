@@ -1,0 +1,33 @@
+.header{
+    background-color: #444444;
+    width: 100%;
+    height: 20vh;
+}
+
+
+.low{
+    background-color: #222222;
+    height:10vh;
+    width: 100%;
+    top:70vh;
+    position: relative;
+}
+.middle{
+    background-color: #EFEFEF;
+    height: calc(100vh - 30vh);
+    width: 60%;
+    float:left;  
+}
+.left{
+    float: left;
+    width: 20%;
+    background-color: #D8D8D8;
+    height: 80vh;
+
+}
+.right{
+    float: left;
+    width: 20%;
+    height:80vh;
+    background-color: #D8D8D8;
+}
